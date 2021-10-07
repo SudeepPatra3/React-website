@@ -13,7 +13,7 @@ function Common(props) {
                 <div className="col-md-6 pt-5 pt-lg-5 order-2 order-lg-1 d-flex justify-content-center flex-column">
                   <h2>
                     {props.name}
-                    <strong className="text-primary"> Broadridge</strong>
+                    <strong className="text-primary"> Sudeep</strong>
                   </h2>
                   <h3 className="my-3">
                     We are the team of talented Developer making websites
