@@ -9,7 +9,7 @@ function Navbar() {
         <nav className="navbar navbar-expand-lg navbar-light">
           <div className="container-fluid">
             <NavLink className="navbar-brand" to="/">
-              BROADRIDGE
+              Sudeep
             </NavLink>
             <button
               className="navbar-toggler"
